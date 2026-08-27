@@ -322,9 +322,7 @@ The team acknowledges AI4ALL Ignite for project guidance, PhysioNet and the orig
 ## Use and Attribution
 
 ****All Rights Reserved
-No copying, modification, distribution, deployment, or reuse without prior written permission
-Only Elizabeth Hannan may grant permission
-Third-party datasets and libraries retain their original licenses********
+<sub>All Rights Reserved. No copying, modification, distribution, deployment, or reuse without prior written permission. Only Elizabeth Hannan may grant permission. Third-party datasets and libraries retain their original licenses.</sub>
 ---
 
 **AI4ALL Ignite 2026 · Group 6C · GE-79 Cognitive-Status Classification**
